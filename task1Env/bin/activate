@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/mesfin/Documents/JPMorgan/jpmc-task-1/task1Env"
+VIRTUAL_ENV="/home/mesfin/Documents/JPMorgan/jpmc-task-1.1/task1Env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

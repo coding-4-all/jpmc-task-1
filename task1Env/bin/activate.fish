@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/mesfin/Documents/JPMorgan/jpmc-task-1/task1Env"
+set -gx VIRTUAL_ENV "/home/mesfin/Documents/JPMorgan/jpmc-task-1.1/task1Env"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
